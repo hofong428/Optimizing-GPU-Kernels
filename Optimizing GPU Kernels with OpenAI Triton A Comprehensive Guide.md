@@ -139,7 +139,7 @@ def vector_add_kernel(A, B, C, N):
 #### 2.2 Optimized Vector Addition Kernel
 
 ```
-python複製程式碼import triton
+import triton
 import triton.language as tl
 
 @triton.jit
