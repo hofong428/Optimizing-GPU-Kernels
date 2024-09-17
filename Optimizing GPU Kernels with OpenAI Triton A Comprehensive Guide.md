@@ -565,9 +565,7 @@ Assuming execution on a specific hardware platform, the following hypothetical p
 
 - **Triton Example Codes**: https://github.com/openai/triton/tree/main/python/examples
 
-- Community Discussions and Support
-
-  :
+- Community Discussions and Support:
 
   - [Triton GitHub Discussions](https://github.com/openai/triton/discussions)
   - [OpenAI Community Forums](https://community.openai.com/)
