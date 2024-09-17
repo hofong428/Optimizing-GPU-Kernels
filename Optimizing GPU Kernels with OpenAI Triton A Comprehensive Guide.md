@@ -570,8 +570,5 @@ Assuming execution on a specific hardware platform, the following hypothetical p
   - [Triton GitHub Discussions](https://github.com/openai/triton/discussions)
   - [OpenAI Community Forums](https://community.openai.com/)
 
-By leveraging Triton's capabilities and adhering to these optimization strategies, developers and data scientists can harness high-performance GPU computing, potentially achieving performance levels comparable to or exceeding those attainable with CUDA in specific contexts. Continuous exploration and collaboration within the community will further unlock Triton's potential, fostering advancements in GPU-accelerated applications.
-
-------
 
 Feel free to contribute to this guide by providing feedback, sharing additional optimization techniques, or proposing new kernel examples. Collaboration is key to advancing Triton's capabilities and its adoption within the GPU programming ecosystem.
